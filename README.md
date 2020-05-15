@@ -1,6 +1,6 @@
-/* Add Author and Project Details here */
+
 Name: D. Naga Siva Sai RaviKanth
-/* Project Details */
+
 The functions which are executing in this file are 
                >> Maximum 
                >> Minimum 
