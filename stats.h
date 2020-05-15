@@ -24,22 +24,71 @@
  * @date < 15/05/2020 >
  *
  */
-#ifndef __STATS_H__
-#define __STATS_H__
+#ifndef MEAN_STATS_H__
+#define MEAN_STATS_H__
 
 /* Add Your Declarations and Function Comments here */ 
+int MEAN(char *ptr, int Size){
+}
 
 /**
- * @brief <Add Brief Description of Function Here>
+ * @brief This function is for executing Mean of a given data
  *
- * <Add Extended Description Here>
+ * This a simple c language code writtern for performing mean operation 
+   for a given data.
  *
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
+ * @param array_size < No.of inputs in a given array >
+ * @param array < Array with numical data>
+ * 
+ * 
+ * @return It returns the mean value of a given data.
+ */
+
+
+#endif /* __STATS_H__ */
+
+#ifndef MEDIAN_STATS_H__
+#define MEDIAN_STATS_H__
+
+/* Add Your Declarations and Function Comments here */ 
+int MEDIAN(char *ptr, int Size){
+}
+
+/**
+ * @brief This function is for executing Median of a given data
  *
- * @return <Add Return Informaiton here>
+ * This a simple c language code writtern for performing a statistical operation called median operation 
+   for a given data.
+ *
+ * @param array_size < No.of inputs in a given array >
+ * @param array < Array with numical data>
+ * 
+ * 
+ * @return It returns the median value of a given data.
+ */
+
+
+#endif /* __STATS_H__ */
+
+
+#ifndef SORT_STATS_H__
+#define SORT_STATS_H__
+
+/* Add Your Declarations and Function Comments here */ 
+int SORT(char *ptr, int Size){
+}
+
+/**
+ * @brief Rearranging a given data in a decending order
+ *
+ * This a simple c language code writtern for sorting operation using swap metod 
+   for a given data. The ouput data will be in decending order.
+ *
+ * @param array_size < No.of inputs in a given array >
+ * @param array < Array with numical data>
+ * 
+ * 
+ * @return It returns sorted array of a given data.
  */
 
 
